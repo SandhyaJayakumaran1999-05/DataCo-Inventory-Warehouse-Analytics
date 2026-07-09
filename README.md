@@ -9,14 +9,12 @@ Dashboard Pages
 3. Logistics & Delivery Performance
 4. Customer & Geographic Analysis
 5. Supply Chain Performance Dashboard
-
 ## Key Insights
 - Identified top-performing markets by sales and profit.
 - Analyzed product categories contributing the highest revenue.
 - Compared delivery performance across shipping modes.
 - Visualized customer distribution using geographic analysis.
 - Evaluated sales and profit performance by market, product, and shipping mode.
-
 ## Tools Used
 - Power BI
 - Power Query
@@ -25,7 +23,6 @@ Dashboard Pages
 - Data Visualization
 ## Dataset
 DataCo Supply Chain Dataset from Kaggle.
-
 ## Skills Demonstrated
 - Data cleaning
 - KPI creation
