@@ -23,7 +23,6 @@ Dashboard Pages
 - DAX
 - Data Modeling
 - Data Visualization
-
 ## Dataset
 DataCo Supply Chain Dataset from Kaggle.
 
