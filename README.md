@@ -1,4 +1,5 @@
-DataCo Inventory & Warehouse Analytics Dashboard
+**DataCo Inventory & Warehouse Analytics Dashboard**
+
 Project Overview
 This Power BI project analyzes supply chain, inventory, logistics, customer geography, and product performance using the DataCo Supply Chain dataset.
 Dashboard Pages
