@@ -1,4 +1,4 @@
-**DataCo Inventory & Warehouse Analytics Dashboard**
+## DataCo Inventory & Warehouse Analytics Dashboard
 
 Project Overview
 
